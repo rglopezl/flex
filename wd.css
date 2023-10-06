@@ -120,4 +120,8 @@ body {
   h2{
     clear: both;
   }
+
+h1{
+    font-size:4rem;
+}
 }
